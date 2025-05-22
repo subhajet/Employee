@@ -1,7 +1,76 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Training L\u0026K\\AspDotNetCore\\EmployeeRAWebApi\\",
-  "Documents": [],
+  "WorkspaceRootPath": "E:\\AspDotNetCore\\EmployeeRA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C811945-A199-4BC9-9191-A9868A31B69B}|EmployeeReportingAutherityMVC\\EmployeeReportingAutherityMVC.csproj|e:\\aspdotnetcore\\employeera\\employeereportingautheritymvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C811945-A199-4BC9-9191-A9868A31B69B}|EmployeeReportingAutherityMVC\\EmployeeReportingAutherityMVC.csproj|solutionrelative:employeereportingautheritymvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C811945-A199-4BC9-9191-A9868A31B69B}|EmployeeReportingAutherityMVC\\EmployeeReportingAutherityMVC.csproj|e:\\aspdotnetcore\\employeera\\employeereportingautheritymvc\\models\\registrationempmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C811945-A199-4BC9-9191-A9868A31B69B}|EmployeeReportingAutherityMVC\\EmployeeReportingAutherityMVC.csproj|solutionrelative:employeereportingautheritymvc\\models\\registrationempmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C811945-A199-4BC9-9191-A9868A31B69B}|EmployeeReportingAutherityMVC\\EmployeeReportingAutherityMVC.csproj|e:\\aspdotnetcore\\employeera\\employeereportingautheritymvc\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C811945-A199-4BC9-9191-A9868A31B69B}|EmployeeReportingAutherityMVC\\EmployeeReportingAutherityMVC.csproj|solutionrelative:employeereportingautheritymvc\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4787DF48-7737-4182-BCC6-B37A1BD623B6}|EmployeeRAWebApi\\EmployeeRAWebApi.csproj|e:\\aspdotnetcore\\employeera\\employeerawebapi\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4787DF48-7737-4182-BCC6-B37A1BD623B6}|EmployeeRAWebApi\\EmployeeRAWebApi.csproj|solutionrelative:employeerawebapi\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4787DF48-7737-4182-BCC6-B37A1BD623B6}|EmployeeRAWebApi\\EmployeeRAWebApi.csproj|e:\\aspdotnetcore\\employeera\\employeerawebapi\\migrations\\20250522191018_cachdb10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4787DF48-7737-4182-BCC6-B37A1BD623B6}|EmployeeRAWebApi\\EmployeeRAWebApi.csproj|solutionrelative:employeerawebapi\\migrations\\20250522191018_cachdb10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4787DF48-7737-4182-BCC6-B37A1BD623B6}|EmployeeRAWebApi\\EmployeeRAWebApi.csproj|e:\\aspdotnetcore\\employeera\\employeerawebapi\\models\\responseempmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4787DF48-7737-4182-BCC6-B37A1BD623B6}|EmployeeRAWebApi\\EmployeeRAWebApi.csproj|solutionrelative:employeerawebapi\\models\\responseempmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4787DF48-7737-4182-BCC6-B37A1BD623B6}|EmployeeRAWebApi\\EmployeeRAWebApi.csproj|e:\\aspdotnetcore\\employeera\\employeerawebapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4787DF48-7737-4182-BCC6-B37A1BD623B6}|EmployeeRAWebApi\\EmployeeRAWebApi.csproj|solutionrelative:employeerawebapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4787DF48-7737-4182-BCC6-B37A1BD623B6}|EmployeeRAWebApi\\EmployeeRAWebApi.csproj|e:\\aspdotnetcore\\employeera\\employeerawebapi\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4787DF48-7737-4182-BCC6-B37A1BD623B6}|EmployeeRAWebApi\\EmployeeRAWebApi.csproj|solutionrelative:employeerawebapi\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C811945-A199-4BC9-9191-A9868A31B69B}|EmployeeReportingAutherityMVC\\EmployeeReportingAutherityMVC.csproj|e:\\aspdotnetcore\\employeera\\employeereportingautheritymvc\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C811945-A199-4BC9-9191-A9868A31B69B}|EmployeeReportingAutherityMVC\\EmployeeReportingAutherityMVC.csproj|solutionrelative:employeereportingautheritymvc\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C811945-A199-4BC9-9191-A9868A31B69B}|EmployeeReportingAutherityMVC\\EmployeeReportingAutherityMVC.csproj|e:\\aspdotnetcore\\employeera\\employeereportingautheritymvc\\models\\loginempmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C811945-A199-4BC9-9191-A9868A31B69B}|EmployeeReportingAutherityMVC\\EmployeeReportingAutherityMVC.csproj|solutionrelative:employeereportingautheritymvc\\models\\loginempmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4787DF48-7737-4182-BCC6-B37A1BD623B6}|EmployeeRAWebApi\\EmployeeRAWebApi.csproj|e:\\aspdotnetcore\\employeera\\employeerawebapi\\models\\loginlogsempmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4787DF48-7737-4182-BCC6-B37A1BD623B6}|EmployeeRAWebApi\\EmployeeRAWebApi.csproj|solutionrelative:employeerawebapi\\models\\loginlogsempmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4787DF48-7737-4182-BCC6-B37A1BD623B6}|EmployeeRAWebApi\\EmployeeRAWebApi.csproj|e:\\aspdotnetcore\\employeera\\employeerawebapi\\models\\loginempmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4787DF48-7737-4182-BCC6-B37A1BD623B6}|EmployeeRAWebApi\\EmployeeRAWebApi.csproj|solutionrelative:employeerawebapi\\models\\loginempmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C811945-A199-4BC9-9191-A9868A31B69B}|EmployeeReportingAutherityMVC\\EmployeeReportingAutherityMVC.csproj|e:\\aspdotnetcore\\employeera\\employeereportingautheritymvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C811945-A199-4BC9-9191-A9868A31B69B}|EmployeeReportingAutherityMVC\\EmployeeReportingAutherityMVC.csproj|solutionrelative:employeereportingautheritymvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4787DF48-7737-4182-BCC6-B37A1BD623B6}|EmployeeRAWebApi\\EmployeeRAWebApi.csproj|e:\\aspdotnetcore\\employeera\\employeerawebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4787DF48-7737-4182-BCC6-B37A1BD623B6}|EmployeeRAWebApi\\EmployeeRAWebApi.csproj|solutionrelative:employeerawebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C811945-A199-4BC9-9191-A9868A31B69B}|EmployeeReportingAutherityMVC\\EmployeeReportingAutherityMVC.csproj|e:\\aspdotnetcore\\employeera\\employeereportingautheritymvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C811945-A199-4BC9-9191-A9868A31B69B}|EmployeeReportingAutherityMVC\\EmployeeReportingAutherityMVC.csproj|solutionrelative:employeereportingautheritymvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4787DF48-7737-4182-BCC6-B37A1BD623B6}|EmployeeRAWebApi\\EmployeeRAWebApi.csproj|e:\\aspdotnetcore\\employeera\\employeerawebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4787DF48-7737-4182-BCC6-B37A1BD623B6}|EmployeeRAWebApi\\EmployeeRAWebApi.csproj|solutionrelative:employeerawebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C811945-A199-4BC9-9191-A9868A31B69B}|EmployeeReportingAutherityMVC\\EmployeeReportingAutherityMVC.csproj|e:\\aspdotnetcore\\employeera\\employeereportingautheritymvc\\employeereportingautheritymvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C811945-A199-4BC9-9191-A9868A31B69B}|EmployeeReportingAutherityMVC\\EmployeeReportingAutherityMVC.csproj|solutionrelative:employeereportingautheritymvc\\employeereportingautheritymvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,8 +78,12 @@
       "DocumentGroups": [
         {
           "DockedHeight": 256,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 21,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
@@ -28,8 +101,225 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250522191018_CachDB10.cs",
+              "DocumentMoniker": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeRAWebApi\\Migrations\\20250522191018_CachDB10.cs",
+              "RelativeDocumentMoniker": "EmployeeRAWebApi\\Migrations\\20250522191018_CachDB10.cs",
+              "ToolTip": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeRAWebApi\\Migrations\\20250522191018_CachDB10.cs",
+              "RelativeToolTip": "EmployeeRAWebApi\\Migrations\\20250522191018_CachDB10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:10:18.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeRAWebApi\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeRAWebApi\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeRAWebApi\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EmployeeRAWebApi\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:05:41.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeRAWebApi\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "EmployeeRAWebApi\\Controllers\\AuthenticateController.cs",
+              "ToolTip": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeRAWebApi\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "EmployeeRAWebApi\\Controllers\\AuthenticateController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAGQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:04:08.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeRAWebApi\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "EmployeeRAWebApi\\Models\\UserRole.cs",
+              "ToolTip": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeRAWebApi\\Models\\UserRole.cs",
+              "RelativeToolTip": "EmployeeRAWebApi\\Models\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:03:35.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResponseEmpModel.cs",
+              "DocumentMoniker": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeRAWebApi\\Models\\ResponseEmpModel.cs",
+              "RelativeDocumentMoniker": "EmployeeRAWebApi\\Models\\ResponseEmpModel.cs",
+              "ToolTip": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeRAWebApi\\Models\\ResponseEmpModel.cs",
+              "RelativeToolTip": "EmployeeRAWebApi\\Models\\ResponseEmpModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:03:33.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeReportingAutherityMVC\\Views\\Login\\Register.cshtml",
+              "RelativeDocumentMoniker": "EmployeeReportingAutherityMVC\\Views\\Login\\Register.cshtml",
+              "ToolTip": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeReportingAutherityMVC\\Views\\Login\\Register.cshtml",
+              "RelativeToolTip": "EmployeeReportingAutherityMVC\\Views\\Login\\Register.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T19:01:08.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeReportingAutherityMVC\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "EmployeeReportingAutherityMVC\\Views\\Login\\Login.cshtml",
+              "ToolTip": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeReportingAutherityMVC\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "EmployeeReportingAutherityMVC\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T18:58:11.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginEmpModel.cs",
+              "DocumentMoniker": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeReportingAutherityMVC\\Models\\LoginEmpModel.cs",
+              "RelativeDocumentMoniker": "EmployeeReportingAutherityMVC\\Models\\LoginEmpModel.cs",
+              "ToolTip": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeReportingAutherityMVC\\Models\\LoginEmpModel.cs",
+              "RelativeToolTip": "EmployeeReportingAutherityMVC\\Models\\LoginEmpModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:55:50.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrationEmpModel.cs",
+              "DocumentMoniker": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeReportingAutherityMVC\\Models\\RegistrationEmpModel.cs",
+              "RelativeDocumentMoniker": "EmployeeReportingAutherityMVC\\Models\\RegistrationEmpModel.cs",
+              "ToolTip": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeReportingAutherityMVC\\Models\\RegistrationEmpModel.cs",
+              "RelativeToolTip": "EmployeeReportingAutherityMVC\\Models\\RegistrationEmpModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:55:31.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginEmpModel.cs",
+              "DocumentMoniker": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeRAWebApi\\Models\\LoginEmpModel.cs",
+              "RelativeDocumentMoniker": "EmployeeRAWebApi\\Models\\LoginEmpModel.cs",
+              "ToolTip": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeRAWebApi\\Models\\LoginEmpModel.cs",
+              "RelativeToolTip": "EmployeeRAWebApi\\Models\\LoginEmpModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:53:05.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginLogsEmpModel.cs",
+              "DocumentMoniker": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeRAWebApi\\Models\\LoginLogsEmpModel.cs",
+              "RelativeDocumentMoniker": "EmployeeRAWebApi\\Models\\LoginLogsEmpModel.cs",
+              "ToolTip": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeRAWebApi\\Models\\LoginLogsEmpModel.cs",
+              "RelativeToolTip": "EmployeeRAWebApi\\Models\\LoginLogsEmpModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:53:01.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeReportingAutherityMVC\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeReportingAutherityMVC\\Program.cs",
+              "ToolTip": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeReportingAutherityMVC\\Program.cs",
+              "RelativeToolTip": "EmployeeReportingAutherityMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:46:15.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeRAWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeRAWebApi\\Program.cs",
+              "ToolTip": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeRAWebApi\\Program.cs",
+              "RelativeToolTip": "EmployeeRAWebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:46:00.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeRAWebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeRAWebApi\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeRAWebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeRAWebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T18:45:13.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeReportingAutherityMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeReportingAutherityMVC\\appsettings.json",
+              "ToolTip": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeReportingAutherityMVC\\appsettings.json",
+              "RelativeToolTip": "EmployeeReportingAutherityMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T18:45:00.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeReportingAutherityMVC",
+              "DocumentMoniker": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeReportingAutherityMVC\\EmployeeReportingAutherityMVC.csproj",
+              "RelativeDocumentMoniker": "EmployeeReportingAutherityMVC\\EmployeeReportingAutherityMVC.csproj",
+              "ToolTip": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeReportingAutherityMVC\\EmployeeReportingAutherityMVC.csproj",
+              "RelativeToolTip": "EmployeeReportingAutherityMVC\\EmployeeReportingAutherityMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T18:43:12.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeReportingAutherityMVC\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "EmployeeReportingAutherityMVC\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\AspDotNetCore\\EmployeeRA\\EmployeeReportingAutherityMVC\\Controllers\\LoginController.cs*",
+              "RelativeToolTip": "EmployeeReportingAutherityMVC\\Controllers\\LoginController.cs*",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAcwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T18:40:43.126Z",
+              "EditorCaption": ""
             }
           ]
         },
